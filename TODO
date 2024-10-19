@@ -1,0 +1,5 @@
+Handle special moves like castling, en passant, and pawn promotion.
+Add game management features to track turns, end conditions, and player actions.
+Implement conditions for draws and stalemates.
+AI Player: Add functionality for playing against an AI, possibly using minimax or another algorithm.
+Move History: Track and display the history of moves made in the game.
